@@ -7,6 +7,7 @@ I'm a passionate learner and technology enthusiast who enjoys building meaningfu
 **Programming Languages:**
 
 * Python (beginner level)
+* Scratch 3 (beginner level)
 
 **Tools & Platforms:**
 
